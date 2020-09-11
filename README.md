@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dominik 👋
 
-<!--
-**Domi04151309/Domi04151309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me 🧑🏻
+I am interested in programming and I think that developing new things is a lot of fun.
+My programming skills are average, but I can do quite a lot with them.
+Taking and editing pictures is something I like as well, which is why you will find some on Instagram.
+You can redistribute most of my projects and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation.
+Improvement suggestions are always welcome, so if you want to make some feel free to do it.
 
-Here are some ideas to get you started:
+#### Statistics ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=Domi04151309&hide_title=true&hide=prs&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domi04151309&layout=compact&hide_title=true)
