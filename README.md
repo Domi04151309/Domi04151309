@@ -1,6 +1,6 @@
-### Hi there, I'm Dominik 👋
-
 ![](https://github-readme-stats.vercel.app/api?username=Domi04151309&hide_title=true&include_all_commits=true&show_icons=true)
+
+### Hi there, I'm Dominik 👋
 
 ### About Me 🧑🏻
 I am interested in programming and I think that developing new things is a lot of fun.
