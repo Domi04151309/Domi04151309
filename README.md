@@ -9,8 +9,5 @@ Improvement suggestions are always welcome, so if you want to make some feel fre
 
 ### Statistics ✨
 
-![](https://github-readme-stats.vercel.app/api?username=Domi04151309&hide_title=true&include_all_commits=true&show_icons=true)
-
-### Languages ✨
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domi04151309&layout=compact&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Domi04151309&hide_title=true&include_all_commits=true&show_icons=true" height="144"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Domi04151309&hide_title=true&layout=compact" height="144"/>
