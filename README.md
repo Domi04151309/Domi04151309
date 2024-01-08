@@ -1,9 +1,11 @@
 ### Hi there, I'm Dominik 👋
 
 ### About Me 🧑🏻
-I am interested in programming, and I think that developing new things is a lot of fun.
-You can help developing most of my projects and become a part of the open-source community.
-Improvement suggestions are always welcome, so if you want to make some feel free to do so.
+
+I'm interested in programming, and I think it's great to create new things. I'm 
+always on the lookout for new technologies and techniques to create amazing 
+products with great user experiences and sleek interfaces. When I'm not coding, 
+I like taking photos, hanging out with friends, or playing the guitar.
 
 ### Statistics ✨
 
